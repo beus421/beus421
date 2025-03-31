@@ -39,8 +39,8 @@ Take a look at some of my featured projects:
 ## Connect with Me
 
 - **GitHub:** [beus421](https://github.com/beus421)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace '#' with your actual LinkedIn URL -->
-- **Portfolio:** [Your Portfolio Website](https://www.hammad-h.online/) <!-- Replace '#' with your actual portfolio URL -->
+- **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace '#' with your actual LinkedIn URL -->
+- **Portfolio:** [My Portfolio![sparkles](https://fonts.gstatic.com/s/e/notoemoji/latest/2728/lottie.json)](https://www.hammad-h.online/) <!-- Replace '#' with your actual portfolio URL -->
 
 > *Stay curious and keep coding!*
 
