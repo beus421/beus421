@@ -31,7 +31,7 @@ I specialize in a range of technologies, from crafting pixel-perfect frontends t
 
 I've been honing my craft as a web developer and freelancer for the past 6 months. During this time, I've contributed to exciting projects, collaborated with awesome people, and learned that debugging sometimes feels like a form of art.
 
-![Bugs]()
+![Bugs](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZzcjhuMjdvMGVzYWFvNmxrOXQ0d2QxMnZwa3hudmV1NGd5NjdncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif)
 
 ## My Hobbies
 
@@ -41,7 +41,7 @@ When I'm not busy coding or chasing the next big project, you'll find me:
 - Binging the latest anime  
 - Gaming like there's no tomorrow
   
-[Gaming](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp2dWdwajd1bXk2N3pqbm1kd3Z2YXphbXJuNzJqZDVqaG5teDFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aLg72WcY7gUaCKUDdK/giphy.gif)
+![Gaming](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp2dWdwajd1bXk2N3pqbm1kd3Z2YXphbXJuNzJqZDVqaG5teDFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aLg72WcY7gUaCKUDdK/giphy.gif)
 
 ## Let's Connect!
 
@@ -50,6 +50,10 @@ Feel free to check out my work or drop me a message. I'm always excited to colla
 - **GitHub:** [beus421](https://github.com/beus421)
 - **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace with your LinkedIn URL -->
 - **Portfolio:** [My Portfolio](hammad-h.online) <!-- Replace with your portfolio URL -->
+
+
+
+![cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE5ZmJ1Y21tM2NxandpNnFzNHh2NmxmOHhnMXFyb2MxaTV4cDc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RddaRQbuBgcgw/giphy.gif)
 
 > *"Keep it simple, keep it fun, and always code like a boss."*
 
