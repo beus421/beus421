@@ -1,4 +1,4 @@
-# Hi there, I'm Hammad (beus421) 👋
+# Hi, I'm Hammad (beus421) 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=F7B733&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Explore+my+world+of+code)
 
@@ -40,7 +40,8 @@ Take a look at some of my featured projects:
 
 - **GitHub:** [beus421](https://github.com/beus421)
 - **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace '#' with your actual LinkedIn URL -->
-- **Portfolio:** [My Portfolio![sparkles](https://fonts.gstatic.com/s/e/notoemoji/latest/2728/lottie.json)](https://www.hammad-h.online/) <!-- Replace '#' with your actual portfolio URL -->
+- **Portfolio:** [My Portfolio](https://www.hammad-h.online/) <!-- Replace '#' with your actual portfolio URL -->
+- ![sparkles](https://fonts.gstatic.com/s/e/notoemoji/latest/2728/lottie.json)
 
 > *Stay curious and keep coding!*
 
