@@ -54,7 +54,7 @@ Feel free to check out my work or drop me a message. I'm always excited to colla
 
 - **GitHub:** [beus421](https://github.com/beus421)
 - **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace with your LinkedIn URL -->
-- **Portfolio:** [My Portfolio](hammad-h.online) <!-- Replace with your portfolio URL -->
+- **Portfolio:** [My Portfolio](https://hammad-h.online) <!-- Replace with your portfolio URL -->
 
 
 
