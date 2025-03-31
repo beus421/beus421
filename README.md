@@ -41,7 +41,7 @@ When I'm not busy coding or chasing the next big project, you'll find me:
 - Binging the latest anime  
 - Gaming like there's no tomorrow
   
-*[Gaming](https://media.giphy.com/media/aLg72WcY7gUaCKUDdK/giphy.gif?cid=ecf05e472gx7e7mp5mi4nvvl19msdc39mpp329pema3v37be&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[Gaming](https://media.giphy.com/media/aLg72WcY7gUaCKUDdK/giphy.gif?cid=ecf05e472gx7e7mp5mi4nvvl19msdc39mpp329pema3v37be&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## Let's Connect!
 
