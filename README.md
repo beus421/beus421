@@ -9,7 +9,8 @@ I'm a web developer and freelancer with a passion for building innovative projec
 
 I specialize in a range of technologies, from crafting pixel-perfect frontends to building robust backend systems. Here's a quick rundown:
 
-- **Frontend Wizardry:**  
+- **Frontend Wizardry:**
+  ![Frontend_gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGc3M3BodnU5MnA2MnEwb3ZnNnJjNmZxN2oxM211MmJ6eTc3b2p4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KMebIJ6RVbSBfxZwqi/giphy.gif)
   HTML, CSS, and Vanilla JavaScript – the holy trinity for smooth and responsive designs.
 
 - **Dynamic Web Applications:**  
