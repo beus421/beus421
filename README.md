@@ -1,9 +1,7 @@
 # Hi there, I'm Hammad 👋
 
-![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVmajZvamRodzQ4MDF1c2UzZjRuY21mNmUxOGs0aXpkMW5zN2l0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES9cAJlcxblRESzOH1/giphy.gif)
-*Insert a cool animated GIF here that shows off your vibe!*
+![Profile GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZlbXVjMjdvY3k4OGZvM3gxcmkxdW9mZmRma3kybGJ6bnc4empxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
-## Who Am I?
 
 I'm a web developer and freelancer with a passion for building innovative projects. With 6 months of professional experience and a knack for both creative and technical problem solving, I strive to keep things both fun and functional.
 
