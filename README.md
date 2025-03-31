@@ -45,6 +45,11 @@ When I'm not busy coding or chasing the next big project, you'll find me:
 
 ## Let's Connect!
 
+
+![cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE5ZmJ1Y21tM2NxandpNnFzNHh2NmxmOHhnMXFyb2MxaTV4cDc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RddaRQbuBgcgw/giphy.gif)
+
+> *"Let's vibe together—because learning is always in tune!"*
+
 Feel free to check out my work or drop me a message. I'm always excited to collaborate on cool projects or just chat about the latest tech trends.
 
 - **GitHub:** [beus421](https://github.com/beus421)
@@ -52,8 +57,4 @@ Feel free to check out my work or drop me a message. I'm always excited to colla
 - **Portfolio:** [My Portfolio](hammad-h.online) <!-- Replace with your portfolio URL -->
 
 
-
-![cat](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGE5ZmJ1Y21tM2NxandpNnFzNHh2NmxmOHhnMXFyb2MxaTV4cDc4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RddaRQbuBgcgw/giphy.gif)
-
-> *"Keep it simple, keep it fun, and always code like a boss."*
 
