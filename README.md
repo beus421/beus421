@@ -31,7 +31,7 @@ I specialize in a range of technologies, from crafting pixel-perfect frontends t
 
 I've been honing my craft as a web developer and freelancer for the past 6 months. During this time, I've contributed to exciting projects, collaborated with awesome people, and learned that debugging sometimes feels like a form of art.
 
-![Bugs](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNxejZnZnNydzcyb2docDN2MWtoaW1wa2w3bnZpeTN5cWlqbXhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif)
+![Bugs]()
 
 ## My Hobbies
 
@@ -41,7 +41,7 @@ When I'm not busy coding or chasing the next big project, you'll find me:
 - Binging the latest anime  
 - Gaming like there's no tomorrow
   
-[Gaming](https://media.giphy.com/media/aLg72WcY7gUaCKUDdK/giphy.gif?cid=ecf05e472gx7e7mp5mi4nvvl19msdc39mpp329pema3v37be&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+[Gaming](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp2dWdwajd1bXk2N3pqbm1kd3Z2YXphbXJuNzJqZDVqaG5teDFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aLg72WcY7gUaCKUDdK/giphy.gif)
 
 ## Let's Connect!
 
