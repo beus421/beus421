@@ -29,8 +29,9 @@ I specialize in a range of technologies, from crafting pixel-perfect frontends t
 
 ## Professional Journey
 
-I've been honing my craft as a web developer and freelancer for the past 6 months. During this time, I've contributed to exciting projects, collaborated with awesome people, and learned that debugging sometimes feels like a form of art.  
-![INSERT GIF: Funny GIF of coding or debugging mishaps](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNxejZnZnNydzcyb2docDN2MWtoaW1wa2w3bnZpeTN5cWlqbXhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif)
+I've been honing my craft as a web developer and freelancer for the past 6 months. During this time, I've contributed to exciting projects, collaborated with awesome people, and learned that debugging sometimes feels like a form of art.
+
+![Bugs](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjNxejZnZnNydzcyb2docDN2MWtoaW1wa2w3bnZpeTN5cWlqbXhxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif)
 
 ## My Hobbies
 
