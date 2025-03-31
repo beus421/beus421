@@ -1,52 +1,55 @@
-# Hi, I'm Hammad (beus421) 👋
+# Hi there, I'm [Hammad] 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=F7B733&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Explore+my+world+of+code)
+![Profile GIF](INSERT_YOUR_PROFILE_GIF_URL_HERE)  
+*Insert a cool animated GIF here that shows off your vibe!*
 
-## About Me
+## Who Am I?
 
-I'm a passionate developer from Karachi, Pakistan, who loves exploring new technologies, contributing to open source, and solving challenging problems with creative code.
+I'm a web developer and freelancer with a passion for building innovative projects. With 6 months of professional experience and a knack for both creative and technical problem solving, I strive to keep things both fun and functional.
 
-## Animated Tech Icons
+## What I Do
 
-Here are some animated icons representing the technologies I work with:
+I specialize in a range of technologies, from crafting pixel-perfect frontends to building robust backend systems. Here's a quick rundown:
 
-- **HTML5**  
-  ![HTML5](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-readme/main/images/html5.gif)
-- **CSS3**  
-  ![CSS3](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-readme/main/images/css3.gif)
-- **JavaScript**  
-  ![JavaScript](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-readme/main/images/javascript.gif)
-- **React**  
-  ![React](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-readme/main/images/react.gif)
-- **Python**  
-  ![Python](https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-readme/main/images/python.gif)
+- **Frontend Wizardry:**  
+  HTML, CSS, and Vanilla JavaScript – the holy trinity for smooth and responsive designs.
 
-*Feel free to replace these links with your favorite animated icons if desired!*
+- **Dynamic Web Applications:**  
+  WordPress & React – for those times when you need a website that’s as dynamic as your ideas.
 
-## GitHub Stats
+- **Modern Frameworks:**  
+  Next.js – because server-side rendering and fast performance are a must.
 
-![Hammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beus421&show_icons=true&theme=radical)
+- **Backend Brilliance:**  
+  FastAPI & Python – for building APIs that make data dance.
 
-## Projects
+- **Automation & Testing:**  
+  Playwright – ensuring that everything works just as it should (or so we hope).
 
-Take a look at some of my featured projects:
+- **AI & Beyond:**  
+  Langchain, Python, and C++ – dabbling in building AI agents and exploring the cutting-edge of technology.
 
-- [**Saas-Project**](https://github.com/beus421/Saas-Project) - A SaaS project crafted with TypeScript.
-- [**javaScriptProjects**](https://github.com/beus421/javaScriptProjects) - A collection of fun and educational JavaScript projects.
-- [**learningReact**](https://github.com/beus421/learningReact) - Documenting my journey and experiments with React.js.
-- [**scarpy**](https://github.com/beus421/scarpy) - A Python-powered web scraping project.
+## Professional Journey
 
-## Connect with Me
+I've been honing my craft as a web developer and freelancer for the past 6 months. During this time, I've contributed to exciting projects, collaborated with awesome people, and learned that debugging sometimes feels like a form of art.  
+*[INSERT GIF: Funny GIF of coding or debugging mishaps]*
+
+## My Hobbies
+
+When I'm not busy coding or chasing the next big project, you'll find me:
+
+- Pumping iron at the gym  
+- Binging the latest anime  
+- Gaming like there's no tomorrow  
+*[INSERT GIF: Fun gym/anime/gaming GIF placeholder]*
+
+## Let's Connect!
+
+Feel free to check out my work or drop me a message. I'm always excited to collaborate on cool projects or just chat about the latest tech trends.
 
 - **GitHub:** [beus421](https://github.com/beus421)
-- **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace '#' with your actual LinkedIn URL -->
-- **Portfolio:** [My Portfolio](https://www.hammad-h.online/) <!-- Replace '#' with your actual portfolio URL -->
-- ![sparkles](https://fonts.gstatic.com/s/e/notoemoji/latest/2728/lottie.json)
+- **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace with your LinkedIn URL -->
+- **Portfolio:** [My Portfolio](hammad-h.online) <!-- Replace with your portfolio URL -->
 
-> *Stay curious and keep coding!*
+> *"Keep it simple, keep it fun, and always code like a boss."*
 
-
-<!---
-beus421/beus421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
