@@ -3,11 +3,11 @@
 ![Profile GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZlbXVjMjdvY3k4OGZvM3gxcmkxdW9mZmRma3kybGJ6bnc4empxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 
-I'm a web developer and freelancer with a passion for building innovative projects. With 6 months of professional experience and a knack for both creative and technical problem solving, I strive to keep things both fun and functional.
+I'm a web developer and freelancer with six months of professional experience, focused on building functional and innovative projects. I enjoy solving both creative and technical challenges to deliver effective and user-friendly solutions.
 
 ## What I Do
 
-I specialize in a range of technologies, from crafting pixel-perfect frontends to building robust backend systems. Here's a quick rundown:
+I work with a range of technologies, from front-end development to backend systems, also llm framworks. Here’s a quick overview::
 
 - **Frontend Wizardry:**
  HTML, CSS, and Vanilla JavaScript – the holy trinity for smooth and responsive designs.
@@ -29,18 +29,12 @@ I specialize in a range of technologies, from crafting pixel-perfect frontends t
 
 ## Professional Journey
 
-I've been honing my craft as a web developer and freelancer for the past 6 months. During this time, I've contributed to exciting projects, collaborated with awesome people, and learned that debugging sometimes feels like a form of art.
+I've been a web developer for a year and a freelancer for the past two years. In that time, I've worked on a variety of projects, collaborated with great teams, and come to appreciate debugging as both a challenge and a skill.
 
 ![Bugs](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZzcjhuMjdvMGVzYWFvNmxrOXQ0d2QxMnZwa3hudmV1NGd5NjdncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif)
 
-## My Hobbies
 
-When I'm not busy coding or chasing the next big project, you'll find me:
-
-- Pumping iron at the gym  
-- Binging the latest anime  
-- Gaming like there's no tomorrow
-  
+  I Engoy gaming and anime 👍
 ![Gaming](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp2dWdwajd1bXk2N3pqbm1kd3Z2YXphbXJuNzJqZDVqaG5teDFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aLg72WcY7gUaCKUDdK/giphy.gif)
 
 ## Let's Connect!
