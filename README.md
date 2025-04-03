@@ -35,6 +35,7 @@ I've been a web developer for a year and a freelancer for the past two years. In
 
 
   I Engoy gaming and anime 👍
+  
 ![Gaming](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp2dWdwajd1bXk2N3pqbm1kd3Z2YXphbXJuNzJqZDVqaG5teDFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aLg72WcY7gUaCKUDdK/giphy.gif)
 
 ## Let's Connect!
@@ -44,11 +45,11 @@ I've been a web developer for a year and a freelancer for the past two years. In
 
 > *"Let's vibe together—because learning is always in tune!"*
 
-Feel free to check out my work or drop me a message. I'm always excited to collaborate on cool projects or just chat about the latest tech trends.
+Feel free to check out my work or drop me a message.
 
-- **GitHub:** [beus421](https://github.com/beus421)
+
 - **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace with your LinkedIn URL -->
-- **Portfolio:** [My Portfolio](https://hammad-h.online) <!-- Replace with your portfolio URL -->
+- **Portfolio:** [hammad-h.online](https://hammad-h.online) <!-- Replace with your portfolio URL -->
 
 
 
