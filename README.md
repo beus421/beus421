@@ -49,7 +49,5 @@ Feel free to check out my work or drop me a message.
 
 
 - **LinkedIn:** [Hammad Habib](https://www.linkedin.com/in/hammad-habib-257b872ba/) <!-- Replace with your LinkedIn URL -->
-- **Portfolio:** [hammad-h.online](https://hammad-h.online) <!-- Replace with your portfolio URL -->
-
 
 
